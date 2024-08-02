@@ -1,1 +1,2 @@
-console.log("Hello there, i'm just playing in codes, i'm too bored");
+
+console.log("Hello, i'm just playing to avoid boredom);
