@@ -1,2 +1,1 @@
-
-console.log("Hello, i'm just playing to avoid boredom);
+const pair ="Extra Ordinary";
