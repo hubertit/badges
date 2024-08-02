@@ -1,1 +1,2 @@
-console.log("You only live once)
+
+console.log("You only live once);
